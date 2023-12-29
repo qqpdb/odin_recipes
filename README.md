@@ -1,3 +1,1 @@
-This project demonstrates my knowledge of HTML and git. I will set up a
-multiple page website with lists, strong and emphasised text, and links
-to the other pages.
+This project demonstrates my knowledge of HTML/CSS and git. It contains recipes taken from Allrecipes.com. Fair-use; educational.

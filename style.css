@@ -1,0 +1,31 @@
+* {
+    background-color: bisque;
+    width: 600px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.directory  {
+    text-align: center;
+}
+
+#homepage.directory {
+    padding-inline-start: initial;
+    list-style: none;
+}
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#title {
+    text-align: center;
+}
+
+.steps {
+    padding-inline-start: initial;
+    list-style: none;
+}
+
